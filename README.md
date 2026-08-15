@@ -1,6 +1,6 @@
-# 👋 Hey! I'm Jonas Walker
+# 👋 Hello! I'm Jonas Walker
 
-Welcome to my GitHub — a space where I build, experiment, and explore the world of **Web3, blockchain, and modern software development**.
+Welcome to my GitHub - a space where I build, experiment, and explore the world of **Web3, blockchain, and modern software development**.
 
 ## 💡 About Me
 
@@ -85,7 +85,3 @@ I'm constantly learning, building, and exploring how decentralized technology ca
 
 I'm especially interested in projects where **blockchain isn't just a feature, but actually makes the application better.**
 
-
----
-
-### ⚡ Building on-chain. Learning every block.
