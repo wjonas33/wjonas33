@@ -85,3 +85,10 @@ I'm constantly learning, building, and exploring how decentralized technology ca
 
 I'm especially interested in projects where **blockchain isn't just a feature, but actually makes the application better.**
 
+---
+
+## 📫 Connect With Me
+
+🔗 **[LinkedIn](https://www.linkedin.com/in/jonas-walker/)**  
+🔗 **[X](https://x.com/wjonas33)**
+
